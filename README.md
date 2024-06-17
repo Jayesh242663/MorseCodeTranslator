@@ -1,9 +1,9 @@
 # Morse Code Translator
-==========================
+
 
 ## Introduction
 
-This is a Morse Code Translator, a simple tool that converts text into Morse code and vice versa. This project is designed to help you communicate in Morse code.
+This is a Morse Code Translator, a simple Java based tool with UI that converts text into Morse code and vice versa. This project is designed to help you communicate in Morse code.
 
 ## Features
 
@@ -13,11 +13,13 @@ This is a Morse Code Translator, a simple tool that converts text into Morse cod
 ## Usage
 
 ### Text to Morse
-
+Enter your message(simple english text)
+Click the Translate button to encode the text into Morse code.
 
 
 ### Morse to Text
-
+Enter your message(Morse code)
+click the Translate button to decode the morse code into simple english text.  
 
 ## Contributing
 
